@@ -177,8 +177,8 @@ ORDER BY revenue DESC;
 
 ## 📞 Connect
 
-**GitHub:** [github.com/yourusername](https://github.com/Hanumanth70)  
-**LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/hanumanthmhugar)
+**GitHub:** [github.com/Hanumanth](https://github.com/Hanumanth70)  
+**LinkedIn:** [linkedin.com/in/Hanumanth](https://www.linkedin.com/in/hanumanthmhugar)
 **Email:** hanumanthmhugar70@gmail.com
 
 ---
