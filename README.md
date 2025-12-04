@@ -124,13 +124,16 @@ Sales_Analytics_Project/
 
 ---
 
-## 📸 Screenshots
+## 📸 Images
 
-### Executive Dashboard
-![Page 1](screenshots/dashboard_page1.png)
+### Executive Dashboard:
 
-### Customer Analysis
-![Page 2](screenshots/dashboard_page2.png)
+![Dashboard Page 1](https://github.com/Hanumanth70/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics_Dashboard_page1.jpg)
+
+### Customer Analysis:
+
+![Dashboard Page 2](https://github.com/Hanumanth70/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics_Dashboard_page2.jpg)
+
 
 ---
 
@@ -166,7 +169,7 @@ ORDER BY revenue DESC;
 ```
 
 3. **Open Power BI**
-   - Open `Sales_Analytics_Dashboard.pbix`
+   - Open `Sales Analytics_Dashboard.pbix`
    - Connect to localhost PostgreSQL
    - Refresh data
 
