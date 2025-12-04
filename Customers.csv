@@ -1,0 +1,186 @@
+Customer_ID,Region,Country,Segment
+CUST-Sub-Saharan Africa-Chad,Sub-Saharan Africa,Chad,Domestic
+CUST-Europe-Latvia,Europe,Latvia,International
+CUST-Middle East and North Africa-Pakistan,Middle East and North Africa,Pakistan,Domestic
+CUST-Sub-Saharan Africa-Democratic Republic of the Congo,Sub-Saharan Africa,Democratic Republic of the Congo,Domestic
+CUST-Europe-Czech Republic,Europe,Czech Republic,International
+CUST-Sub-Saharan Africa-South Africa,Sub-Saharan Africa,South Africa,Domestic
+CUST-Asia-Laos,Asia,Laos,International
+CUST-Asia-China,Asia,China,International
+CUST-Sub-Saharan Africa-Eritrea,Sub-Saharan Africa,Eritrea,Domestic
+CUST-Central America and the Caribbean-Haiti,Central America and the Caribbean,Haiti,Domestic
+CUST-Sub-Saharan Africa-Zambia,Sub-Saharan Africa,Zambia,Domestic
+CUST-Europe-Bosnia and Herzegovina,Europe,Bosnia and Herzegovina,International
+CUST-Europe-Germany,Europe,Germany,International
+CUST-Asia-India,Asia,India,International
+CUST-Middle East and North Africa-Algeria,Middle East and North Africa,Algeria,Domestic
+CUST-Australia and Oceania-Palau,Australia and Oceania,Palau,Domestic
+CUST-Central America and the Caribbean-Cuba,Central America and the Caribbean,Cuba,Domestic
+CUST-Europe-Vatican City,Europe,Vatican City,International
+CUST-Middle East and North Africa-Lebanon,Middle East and North Africa,Lebanon,Domestic
+CUST-Europe-Lithuania,Europe,Lithuania,International
+CUST-Sub-Saharan Africa-Mauritius ,Sub-Saharan Africa,Mauritius ,Domestic
+CUST-Europe-Ukraine,Europe,Ukraine,International
+CUST-Europe-Russia,Europe,Russia,International
+CUST-Asia-Japan,Asia,Japan,International
+CUST-Europe-Liechtenstein,Europe,Liechtenstein,International
+CUST-Europe-Greece,Europe,Greece,International
+CUST-Europe-Albania,Europe,Albania,International
+CUST-Australia and Oceania-Federated States of Micronesia,Australia and Oceania,Federated States of Micronesia,Domestic
+CUST-Central America and the Caribbean-Dominica,Central America and the Caribbean,Dominica,Domestic
+CUST-Europe-Andorra,Europe,Andorra,International
+CUST-Europe-Switzerland,Europe,Switzerland,International
+CUST-Central America and the Caribbean-Trinidad and Tobago,Central America and the Caribbean,Trinidad and Tobago,Domestic
+CUST-Europe-San Marino,Europe,San Marino,International
+CUST-Central America and the Caribbean-Nicaragua,Central America and the Caribbean,Nicaragua,Domestic
+CUST-Middle East and North Africa-Azerbaijan,Middle East and North Africa,Azerbaijan,Domestic
+CUST-Asia-Bangladesh,Asia,Bangladesh,International
+CUST-Europe-Serbia,Europe,Serbia,International
+CUST-Central America and the Caribbean-Jamaica,Central America and the Caribbean,Jamaica,Domestic
+CUST-Europe-Italy,Europe,Italy,International
+CUST-Asia-Bhutan,Asia,Bhutan,International
+CUST-Middle East and North Africa-Turkey,Middle East and North Africa,Turkey,Domestic
+CUST-Europe-Bulgaria,Europe,Bulgaria,International
+CUST-Europe-Poland,Europe,Poland,International
+CUST-Europe-France,Europe,France,International
+CUST-Australia and Oceania-Australia,Australia and Oceania,Australia,Domestic
+CUST-Middle East and North Africa-Somalia,Middle East and North Africa,Somalia,Domestic
+CUST-Europe-Slovenia,Europe,Slovenia,International
+CUST-Australia and Oceania-Samoa ,Australia and Oceania,Samoa ,Domestic
+CUST-Sub-Saharan Africa-Ghana,Sub-Saharan Africa,Ghana,Domestic
+CUST-Asia-Sri Lanka,Asia,Sri Lanka,International
+CUST-Sub-Saharan Africa-Guinea,Sub-Saharan Africa,Guinea,Domestic
+CUST-Europe-Spain,Europe,Spain,International
+CUST-Europe-Moldova ,Europe,Moldova ,International
+CUST-Central America and the Caribbean-Dominican Republic,Central America and the Caribbean,Dominican Republic,Domestic
+CUST-Europe-Luxembourg,Europe,Luxembourg,International
+CUST-Middle East and North Africa-Kuwait,Middle East and North Africa,Kuwait,Domestic
+CUST-Central America and the Caribbean-Saint Lucia,Central America and the Caribbean,Saint Lucia,Domestic
+CUST-Europe-Georgia,Europe,Georgia,International
+CUST-Europe-Iceland,Europe,Iceland,International
+CUST-Sub-Saharan Africa-Malawi,Sub-Saharan Africa,Malawi,Domestic
+CUST-Sub-Saharan Africa-Seychelles ,Sub-Saharan Africa,Seychelles ,Domestic
+CUST-Europe-Montenegro,Europe,Montenegro,International
+CUST-Europe-Estonia,Europe,Estonia,International
+CUST-Sub-Saharan Africa-Madagascar,Sub-Saharan Africa,Madagascar,Domestic
+CUST-Sub-Saharan Africa-Benin,Sub-Saharan Africa,Benin,Domestic
+CUST-Europe-Hungary,Europe,Hungary,International
+CUST-Sub-Saharan Africa-Senegal,Sub-Saharan Africa,Senegal,Domestic
+CUST-Central America and the Caribbean-Antigua and Barbuda ,Central America and the Caribbean,Antigua and Barbuda ,Domestic
+CUST-Asia-Cambodia,Asia,Cambodia,International
+CUST-Middle East and North Africa-Oman,Middle East and North Africa,Oman,Domestic
+CUST-North America-United States of America,North America,United States of America,Domestic
+CUST-Sub-Saharan Africa-Mauritania,Sub-Saharan Africa,Mauritania,Domestic
+CUST-Sub-Saharan Africa-Central African Republic,Sub-Saharan Africa,Central African Republic,Domestic
+CUST-Europe-Austria,Europe,Austria,International
+CUST-Middle East and North Africa-Libya,Middle East and North Africa,Libya,Domestic
+CUST-Sub-Saharan Africa-Niger,Sub-Saharan Africa,Niger,Domestic
+CUST-Europe-Sweden,Europe,Sweden,International
+CUST-Middle East and North Africa-Tunisia ,Middle East and North Africa,Tunisia ,Domestic
+CUST-Asia-Taiwan,Asia,Taiwan,International
+CUST-Asia-Indonesia,Asia,Indonesia,International
+CUST-Sub-Saharan Africa-Ethiopia,Sub-Saharan Africa,Ethiopia,Domestic
+CUST-Sub-Saharan Africa-Swaziland,Sub-Saharan Africa,Swaziland,Domestic
+CUST-Europe-Portugal,Europe,Portugal,International
+CUST-Sub-Saharan Africa-Zimbabwe,Sub-Saharan Africa,Zimbabwe,Domestic
+CUST-Europe-Armenia,Europe,Armenia,International
+CUST-Asia-North Korea,Asia,North Korea,International
+CUST-Sub-Saharan Africa-Burkina Faso,Sub-Saharan Africa,Burkina Faso,Domestic
+CUST-Sub-Saharan Africa-Sao Tome and Principe,Sub-Saharan Africa,Sao Tome and Principe,Domestic
+CUST-Australia and Oceania-Tuvalu,Australia and Oceania,Tuvalu,Domestic
+CUST-Central America and the Caribbean-Barbados,Central America and the Caribbean,Barbados,Domestic
+CUST-Sub-Saharan Africa-Mali,Sub-Saharan Africa,Mali,Domestic
+CUST-Europe-Netherlands,Europe,Netherlands,International
+CUST-Central America and the Caribbean-Honduras,Central America and the Caribbean,Honduras,Domestic
+CUST-Sub-Saharan Africa-Botswana,Sub-Saharan Africa,Botswana,Domestic
+CUST-Sub-Saharan Africa-Lesotho,Sub-Saharan Africa,Lesotho,Domestic
+CUST-Sub-Saharan Africa-Togo,Sub-Saharan Africa,Togo,Domestic
+CUST-Europe-United Kingdom,Europe,United Kingdom,International
+CUST-Middle East and North Africa-Morocco,Middle East and North Africa,Morocco,Domestic
+CUST-Australia and Oceania-Papua New Guinea,Australia and Oceania,Papua New Guinea,Domestic
+CUST-Australia and Oceania-New Zealand,Australia and Oceania,New Zealand,Domestic
+CUST-Central America and the Caribbean-Saint Kitts and Nevis ,Central America and the Caribbean,Saint Kitts and Nevis ,Domestic
+CUST-Asia-Myanmar,Asia,Myanmar,International
+CUST-Central America and the Caribbean-Guatemala,Central America and the Caribbean,Guatemala,Domestic
+CUST-Middle East and North Africa-Iran,Middle East and North Africa,Iran,Domestic
+CUST-Asia-Singapore,Asia,Singapore,International
+CUST-Sub-Saharan Africa-Sudan,Sub-Saharan Africa,Sudan,Domestic
+CUST-Europe-Macedonia,Europe,Macedonia,International
+CUST-North America-Canada,North America,Canada,Domestic
+CUST-Europe-Malta,Europe,Malta,International
+CUST-Middle East and North Africa-Iraq,Middle East and North Africa,Iraq,Domestic
+CUST-Asia-Thailand,Asia,Thailand,International
+CUST-Central America and the Caribbean-Belize,Central America and the Caribbean,Belize,Domestic
+CUST-Europe-Slovakia,Europe,Slovakia,International
+CUST-Middle East and North Africa-Syria,Middle East and North Africa,Syria,Domestic
+CUST-Australia and Oceania-Tonga,Australia and Oceania,Tonga,Domestic
+CUST-Europe-Finland,Europe,Finland,International
+CUST-Sub-Saharan Africa-Namibia,Sub-Saharan Africa,Namibia,Domestic
+CUST-Sub-Saharan Africa-Kenya,Sub-Saharan Africa,Kenya,Domestic
+CUST-Australia and Oceania-Kiribati,Australia and Oceania,Kiribati,Domestic
+CUST-Sub-Saharan Africa-The Gambia,Sub-Saharan Africa,The Gambia,Domestic
+CUST-Middle East and North Africa-United Arab Emirates,Middle East and North Africa,United Arab Emirates,Domestic
+CUST-Sub-Saharan Africa-Rwanda,Sub-Saharan Africa,Rwanda,Domestic
+CUST-Europe-Cyprus,Europe,Cyprus,International
+CUST-Middle East and North Africa-Afghanistan,Middle East and North Africa,Afghanistan,Domestic
+CUST-Sub-Saharan Africa-Uganda,Sub-Saharan Africa,Uganda,Domestic
+CUST-Asia-Nepal,Asia,Nepal,International
+CUST-Australia and Oceania-East Timor,Australia and Oceania,East Timor,Domestic
+CUST-Asia-Mongolia,Asia,Mongolia,International
+CUST-Sub-Saharan Africa-Mozambique,Sub-Saharan Africa,Mozambique,Domestic
+CUST-Asia-Tajikistan,Asia,Tajikistan,International
+CUST-Middle East and North Africa-Saudi Arabia,Middle East and North Africa,Saudi Arabia,Domestic
+CUST-Europe-Norway,Europe,Norway,International
+CUST-Sub-Saharan Africa-Djibouti,Sub-Saharan Africa,Djibouti,Domestic
+CUST-Europe-Denmark,Europe,Denmark,International
+CUST-Australia and Oceania-Nauru,Australia and Oceania,Nauru,Domestic
+CUST-Middle East and North Africa-Israel,Middle East and North Africa,Israel,Domestic
+CUST-Asia-Brunei,Asia,Brunei,International
+CUST-Europe-Croatia,Europe,Croatia,International
+CUST-Europe-Belarus,Europe,Belarus,International
+CUST-Asia-Kyrgyzstan,Asia,Kyrgyzstan,International
+CUST-Sub-Saharan Africa-Angola,Sub-Saharan Africa,Angola,Domestic
+CUST-Europe-Romania,Europe,Romania,International
+CUST-Asia-Uzbekistan,Asia,Uzbekistan,International
+CUST-Sub-Saharan Africa-Tanzania,Sub-Saharan Africa,Tanzania,Domestic
+CUST-Asia-Vietnam,Asia,Vietnam,International
+CUST-Sub-Saharan Africa-Comoros,Sub-Saharan Africa,Comoros,Domestic
+CUST-Australia and Oceania-Vanuatu,Australia and Oceania,Vanuatu,Domestic
+CUST-Central America and the Caribbean-Saint Vincent and the Grenadines,Central America and the Caribbean,Saint Vincent and the Grenadines,Domestic
+CUST-Middle East and North Africa-Egypt,Middle East and North Africa,Egypt,Domestic
+CUST-Europe-Ireland,Europe,Ireland,International
+CUST-North America-Greenland,North America,Greenland,Domestic
+CUST-Sub-Saharan Africa-Cameroon,Sub-Saharan Africa,Cameroon,Domestic
+CUST-Australia and Oceania-Marshall Islands,Australia and Oceania,Marshall Islands,Domestic
+CUST-Middle East and North Africa-Yemen,Middle East and North Africa,Yemen,Domestic
+CUST-Central America and the Caribbean-El Salvador,Central America and the Caribbean,El Salvador,Domestic
+CUST-Central America and the Caribbean-The Bahamas,Central America and the Caribbean,The Bahamas,Domestic
+CUST-Asia-Maldives,Asia,Maldives,International
+CUST-Sub-Saharan Africa-Nigeria,Sub-Saharan Africa,Nigeria,Domestic
+CUST-Central America and the Caribbean-Panama,Central America and the Caribbean,Panama,Domestic
+CUST-Asia-Turkmenistan,Asia,Turkmenistan,International
+CUST-Europe-Belgium,Europe,Belgium,International
+CUST-Europe-Kosovo,Europe,Kosovo,International
+CUST-Central America and the Caribbean-Costa Rica,Central America and the Caribbean,Costa Rica,Domestic
+CUST-Sub-Saharan Africa-Burundi,Sub-Saharan Africa,Burundi,Domestic
+CUST-Sub-Saharan Africa-Sierra Leone,Sub-Saharan Africa,Sierra Leone,Domestic
+CUST-Sub-Saharan Africa-Equatorial Guinea,Sub-Saharan Africa,Equatorial Guinea,Domestic
+CUST-Central America and the Caribbean-Grenada,Central America and the Caribbean,Grenada,Domestic
+CUST-North America-Mexico,North America,Mexico,Domestic
+CUST-Sub-Saharan Africa-Cape Verde,Sub-Saharan Africa,Cape Verde,Domestic
+CUST-Sub-Saharan Africa-Liberia,Sub-Saharan Africa,Liberia,Domestic
+CUST-Asia-Philippines,Asia,Philippines,International
+CUST-Europe-Monaco,Europe,Monaco,International
+CUST-Asia-Kazakhstan,Asia,Kazakhstan,International
+CUST-Sub-Saharan Africa-Gabon,Sub-Saharan Africa,Gabon,Domestic
+CUST-Australia and Oceania-Fiji,Australia and Oceania,Fiji,Domestic
+CUST-Sub-Saharan Africa-Republic of the Congo,Sub-Saharan Africa,Republic of the Congo,Domestic
+CUST-Australia and Oceania-Solomon Islands,Australia and Oceania,Solomon Islands,Domestic
+CUST-Asia-South Korea,Asia,South Korea,International
+CUST-Middle East and North Africa-Qatar,Middle East and North Africa,Qatar,Domestic
+CUST-Sub-Saharan Africa-South Sudan,Sub-Saharan Africa,South Sudan,Domestic
+CUST-Middle East and North Africa-Jordan,Middle East and North Africa,Jordan,Domestic
+CUST-Sub-Saharan Africa-Guinea-Bissau,Sub-Saharan Africa,Guinea-Bissau,Domestic
+CUST-Middle East and North Africa-Bahrain,Middle East and North Africa,Bahrain,Domestic
+CUST-Sub-Saharan Africa-Cote d'Ivoire,Sub-Saharan Africa,Cote d'Ivoire,Domestic
+CUST-Asia-Malaysia,Asia,Malaysia,International
